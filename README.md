@@ -1,6 +1,4 @@
 # C-programming-basics
-Sure! Here's a more detailed explanation of the C programming language, breaking down each section and providing additional context and examples:
-
 # Introduction to C Programming Language
 
 C is a powerful general-purpose programming language that is widely used in various fields such as system programming, embedded systems, and developing software applications. Here is a basic explanation of the C programming language, using information from "C Programming for Arduino" by Julien Bayle.
